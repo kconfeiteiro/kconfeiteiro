@@ -107,7 +107,7 @@ If you are interested in collaborating or learning more about my research, don't
   <a href="https://www.linkedin.com/in/kconfeiteiro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/krys9172" target="_blank">
+  <a href="https://www.discordapp.com/users/krys" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:confeitk@outlook.com" target="_blank">
