@@ -1,4 +1,4 @@
-# Hi there 👋 <div align="right" style="float:right;">![Profile Views](https://komarev.com/ghpvc/?username=kconfeiteiro&color=blue)</div>
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm Krystian Confeiteiro (Krys), an Astrophysicist and aspiring Software Engineer. I'm all about practicality and efficient problem-solving, always seeking continuous progress in my learning journey. I find great joy in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
 
@@ -119,3 +119,7 @@ If you are interested in collaborating or learning more about my research, don't
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a> -->
 </div>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kconfeiteiro&color=blue)
