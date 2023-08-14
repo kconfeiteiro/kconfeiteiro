@@ -18,11 +18,11 @@ My long-term goal is to work on software specifically for any space science-rela
 
 During my academic journey, I have been actively involved in research in various fields. Here are a few examples of my research experience and projects:
 
-- Working on Hall-effect thrusters using FEMM in combination with MATLAB
-- Developing and implementing neural networks to automate the vetting of light curves in astronomy
-- Fixing, rewriting, and implementing a pipeline designed to process large files of data
-- Commission of the official website for the [gyrochronology project](https://www.gyrochronology.info)
-- Statistical and graphical analysis of extreme geomagnetic storm simulations
+- Working on Hall-effect thrusters using FEMM in combination with MATLAB.
+- Developing and implementing neural networks to automate the vetting of light curves in astronomy.
+- Fixing, rewriting, and implementing a pipeline designed to process large files of data.
+- Commission of the official website for the [gyrochronology project](https://www.gyrochronology.info).
+- Statistical and graphical analysis of extreme geomagnetic storm simulations.
 
 One of my significant contributions has been automating the vetting process of light curves in astronomy using classification models. This work has significantly reduced the need for manual analysis and enabled more efficient processing of ground-observed data, providing valuable insights into the periodicity of stars.
 
