@@ -91,14 +91,6 @@ One of my significant contributions has been automating the vetting process of l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
 </div>
 
-## Stats
-
-<div align="center">
-
-  <img float="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kconfeiteiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kconfeiteiro&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ##  Collaborations
 
 If you are interested in collaborating or learning more about my research, don't hesistate to contact me!
