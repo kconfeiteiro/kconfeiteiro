@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Krystian Ojeda Confeiteiro (Krys), an Astrophy
 
 ### About me
 
-I am currently in the last year of my undergrad at ERAU, currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences. Outlined below:
+I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (ERAU) in Daytona Beach, FL, currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences. Outlined below:
 
 - **Embry-Riddle Aeronautical University (ERAU)**
   - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
@@ -21,7 +21,7 @@ During my academic journey, I have been actively involved in research in various
 - Working on Hall-effect thrusters using FEMM in combination with MATLAB.
 - Developing and implementing neural networks to automate the vetting of light curves in astronomy.
 - Fixing, rewriting, and implementing a pipeline designed to process large files of data.
-- Commission of the official website for the [gyrochronology project](https://www.gyrochronology.info).
+- Design, creation, and maintenance of the official gyrochronology project website for the [gyrochronology project](https://www.gyrochronology.info).
 - Statistical and graphical analysis of extreme geomagnetic storm simulations.
 
 One of my significant contributions has been automating the vetting process of light curves in astronomy using classification models. This work has significantly reduced the need for manual analysis and enabled more efficient processing of ground-observed data, providing valuable insights into the periodicity of stars.
@@ -93,7 +93,7 @@ One of my significant contributions has been automating the vetting process of l
 
 ##  Collaborations
 
-If you are interested in collaborating or learning more about my research, don't hesistate to contact me!
+If you are interested in collaborating or learning more about my research, don't hesitate to contact me!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kconfeiteiro" target="_blank">
@@ -105,9 +105,9 @@ If you are interested in collaborating or learning more about my research, don't
   <a href="mailto:confeitk@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <!-- <a href="https://codepen.io/kconfeiteiro" target="_blank">
+  <a href="https://codepen.io/kconfeiteiro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a> -->
+  </a>
 </div>
 
 <br>
