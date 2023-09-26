@@ -95,6 +95,8 @@ One of my significant contributions has been automating the vetting process of l
 
 If you are interested in collaborating or learning more about my research, don't hesitate to contact me!
 
+### Contact Me!
+
 <div align="left">
   <a href="https://www.linkedin.com/in/kconfeiteiro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -109,7 +111,5 @@ If you are interested in collaborating or learning more about my research, don't
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
-
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kconfeiteiro&color=blue)
