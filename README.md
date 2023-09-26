@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Krystian Ojeda Confeiteiro (Krys), an Astrophy
 
 ### About me
 
-I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (ERAU) in Daytona Beach, FL, currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences. Outlined below:
+I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (ERAU) in Daytona Beach, FL, currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences. Outlined below:
 
 - **Embry-Riddle Aeronautical University (ERAU)**
   - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
