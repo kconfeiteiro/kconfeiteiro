@@ -1,14 +1,13 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Krystian Ojeda Confeiteiro (Krys), an Astrophysicist and aspiring Software Engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
+Welcome to my GitHub profile! I'm Krystian Ojeda Confeiteiro (Krys), an Astrophysicist and aspiring Software Engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy and satisfaction in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
 
 ### About me
 
 I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (Daytona Beach campus), currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences. Outlined below:
 
-- **Embry-Riddle Aeronautical University (ERAU)**
-  - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
-  - M.S. in Software Engineering (Future plan; expected graduation: Spring 2026)
+- B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
+- M.Sc. in Software Engineering (Future plan; Plans TBD)
 <!-- - **Virginia Tech**
   - Ph.D. in Computer Science/Engineering (Future plan; focused on Space Sciences) -->
 
@@ -18,7 +17,7 @@ My long-term goal is to work on software specifically for any space science-rela
 
 During my academic journey, I have been actively involved in research in various fields. Here are a few examples of my research experience and projects:
 
-- Working on Hall-effect thrusters using FEMM in combination with MATLAB.
+- Working on Hall-effect thrusters using [FEMM for MATLAB](https://www.femm.info/wiki/Download).
 - Developing and implementing neural networks to automate the vetting of light curves in astronomy.
 - Fixing, rewriting, and implementing a pipeline designed to process large files of data.
 - Design, creation, and maintenance of the official gyrochronology project website for the [gyrochronology project](https://www.gyrochronology.info).
