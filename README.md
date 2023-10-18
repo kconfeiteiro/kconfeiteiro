@@ -11,7 +11,7 @@ I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical Un
 <!-- - **Virginia Tech**
   - Ph.D. in Computer Science/Engineering (Future plan; focused on Space Sciences) -->
 
-My long-term goal is to work on software specifically for any space science-related field. One of my short-term goals is to become an open-source contributor, something I have been building up since becoming a proficient coder. My only two open-source contributions thus far are a [Public Flask App Template](https://github.com/kconfeiteiro/Website-flask-practice) and [pyprojectstools](https://github.com/kconfeiteiro/pyprojecttools). Project repositories will be published upon their completion. See my [Github profile](https://github.com/kconfeiteiro?tab=repositories&q=&type=public&language=&sort=) or my [LinkedIn](www.linkedin.com/in/kconfeiteiro) to learn more!
+My long-term goal is to work on software specifically for any space science-related field. One of my short-term goals is to become an open-source contributor, something I have been building up since becoming a proficient coder. My only two open-source contributions thus far are a [Public Flask App Template](https://github.com/kconfeiteiro/Website-flask-practice) and [pyprojectstools](https://github.com/kconfeiteiro/pyprojecttools). Project repositories will be published upon their completion. See my [Github profile](https://github.com/kconfeiteiro?tab=repositories&q=&type=public&language=&sort=) or my [LinkedIn](https://www.linkedin.com/in/kconfeiteiro) to learn more!
 
 ## Research
 
