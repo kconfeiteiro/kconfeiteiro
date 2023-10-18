@@ -4,11 +4,12 @@ Welcome to my GitHub profile! I'm Krystian Ojeda Confeiteiro (Krys), an Astrophy
 
 ## About me
 
-I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (Daytona Beach campus), currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences. Outlined below:
+I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (Daytona Beach campus), currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergrad, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focused on Space Sciences.
 
-- B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
+
+<!-- - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
 - M.Sc. in Software Engineering (Future plan; Plans TBD)
-<!-- - **Virginia Tech**
+- - **Virginia Tech**
   - Ph.D. in Computer Science/Engineering (Future plan; focused on Space Sciences) -->
 
 My long-term goal is to work on software specifically for any space science-related field. One of my short-term goals is to become an open-source contributor, something I have been building up since becoming a proficient coder. My only two open-source contributions thus far are a [Public Flask App Template](https://github.com/kconfeiteiro/Website-flask-practice) and [pyprojectstools](https://github.com/kconfeiteiro/pyprojecttools). Project repositories will be published upon their completion. See my [Github profile](https://github.com/kconfeiteiro?tab=repositories&q=&type=public&language=&sort=) or my [LinkedIn](https://www.linkedin.com/in/kconfeiteiro) to learn more!
@@ -29,7 +30,7 @@ One of my more significant contributions/projects has been automating the vettin
 
 Below are my personal projects along with recently published Python notes:
 - [pyprojecttools](https://kconfeiteiro.notion.site/So-You-Want-to-Learn-Python-e0025f5ce52246c1bf79847673e739ba?pvs=4)
-- [Flask Web Application GitHub Template](https://github.com/kconfeiteiro/Flask-App-Template)
+- [Flask Web Application](https://github.com/kconfeiteiro/Flask-App-Template) GitHub Template
 - [So, You Want To Learn Python?](https://github.com/kconfeiteiro/pyprojecttools)
 
 ## Technologies
