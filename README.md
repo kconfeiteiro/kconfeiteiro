@@ -1,10 +1,10 @@
 # Hello there 👋
 
-Welcome to my GitHub profile! I'm Krystian Ojeda Confeiteiro (Krys), an astrophysicist student and aspiring software engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy and satisfaction in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
+Welcome to my GitHub profile! I'm Krystian David Ojdea Confeiteiro (Krys), an astrophysicist student and aspiring software engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy and satisfaction in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
 
 ## About me
 
-I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (Daytona Beach campus), currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergraduate degree, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science with a focus on Space Sciences.
+I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (Daytona Beach campus), currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergraduate degree, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focusing on Space Sciences.
 
 
 <!-- - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
