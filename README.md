@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm Krystian David Ojdea Confeiteiro (Krys), an astrophysicist student and aspiring software engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy and satisfaction in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
 
-## About me
+## About Me
 
-I am a graduate of Embry-Riddle Aeronautical University (Daytona Beach campus) with a B.S in Astronomy & Astrophysics and a minor in Applied Mathematics. My undergraduate research focused on calculating stellar ages using the rotation-age relationship, an astrophysical paradigm known as gyrochronology. I have experience in Python, JavaScript, MATLAB, Java, HTML, and CSS, with the greatest proficiency in Python (2 years), JavaScript (1.5 years), and Java (4 months).
+I am a graduate of Embry-Riddle Aeronautical University (Daytona Beach campus) with a B.S in Astronomy & Astrophysics and a minor in Applied Mathematics. My undergraduate research focused on calculating stellar ages using the rotation-age relationship, an astrophysical paradigm known as gyrochronology. I have experience in Python, JavaScript, MATLAB, Java, HTML, and CSS, with the greatest proficiency in Python (3+ years), JavaScript (1.5+ years), and Java (4 months).
 
 
 <!-- - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
