@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Krystian David Ojdea Confeiteiro (Krys), an as
 
 ## About me
 
-I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) (Daytona Beach campus), currently working on research on the calculation of stellar ages using the rotation-age relationship, an astrophysical paradigm known as *gyrochronology*. I currently know Python, JavaScript, MATLAB, Java, HTML, and CSS, where I am most experienced in Python (2 years), JavaScript (1.5 years), and Java (4 months). After completing my undergraduate degree, I will pursue an M.S. in Software Engineering and a Ph.D. in Computer Science focusing on Space Sciences.
+I am a graduate of Embry-Riddle Aeronautical University (Daytona Beach campus) with a B.S. in Astronomy & Astrophysics and a minor in Applied Mathematics. My undergraduate research focused on calculating stellar ages using the rotation-age relationship, an astrophysical paradigm known as gyrochronology. I have experience in Python, JavaScript, MATLAB, Java, HTML, and CSS, with the greatest proficiency in Python (2 years), JavaScript (1.5 years), and Java (4 months).
 
 
 <!-- - B.Sc. in Astronomy & Astrophysics, minor in Applied Mathematics (Spring 2023)
@@ -12,7 +12,7 @@ I am currently in the last year of my undergrad at [Embry-Riddle Aeronautical Un
 - - **Virginia Tech**
   - Ph.D. in Computer Science/Engineering (Future plan; focused on Space Sciences) -->
 
-My long-term goal is to work on software specifically for any space science-related field. One of my short-term goals is to become an open-source contributor, something I have been building up since becoming a proficient coder. My only two open-source contributions thus far are a [Public Flask App Template](https://github.com/kconfeiteiro/Website-flask-practice) and [pyprojecttools](https://github.com/kconfeiteiro/pyprojecttools). Project repositories will be published upon their completion. See my [Github profile](https://github.com/kconfeiteiro?tab=repositories&q=&type=public&language=&sort=) or my [LinkedIn](https://www.linkedin.com/in/kconfeiteiro) to learn more!
+My long-term goal is to work on software specifically for any space science-related field. One of my short-term goals is to become an open-source contributor, something I have been building up since becoming a proficient coder. My only two open-source contributions thus far are a [Public Flask App Template](https://github.com/kconfeiteiro/Website-flask-practice) and [pyprojecttools](https://github.com/kconfeiteiro/pyprojecttools). Project repositories will be published upon their completion. See my [Github repositories](https://github.com/kconfeiteiro?tab=repositories&q=&type=public&language=&sort=) or my [LinkedIn](https://www.linkedin.com/in/kconfeiteiro) to learn more!
 
 ## Research
 
