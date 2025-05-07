@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Welcome to my GitHub profile! I'm Krystian David Ojdea Confeiteiro (Krys), an astrophysicist student and aspiring software engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy and satisfaction in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
+Welcome to my GitHub profile! I'm Krystian David Confeiteiro (Krys), an astrophysicist student and aspiring software engineer. I pride myself in practicality and efficient problem-solving and always seek continuous progress in my learning journey. I find great joy and satisfaction in maximizing opportunities, honing my skills, and embracing challenges. I have experience with multiple coding languages and enjoy creating effective solutions for various projects.
 
 ## About Me
 
